@@ -15,9 +15,9 @@
     "vuex": "^3.0.1"
   },
   "devDependencies": {
-    "@vue/cli-plugin-babel": "^3.9.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-plugin-typescript": "^3.9.0",
-    "@vue/cli-service": "^3.9.0",
+    "@vue/cli-service": "^5.0.8",
     "node-sass": "^4.9.0",
     "photo-sphere-viewer": "^3.5.1",
     "sass-loader": "^7.1.0",
